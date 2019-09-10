@@ -5,6 +5,8 @@
 
 public class Variabler {
     public static void main(String[] args) {
+    
+ 
         byte a = 123;
         short c = 2012;
         int b = 50352;
